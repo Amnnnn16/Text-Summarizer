@@ -1,6 +1,6 @@
 # Text Summarizer Web Application
 
-This is a web application for text summarization. It provides a user-friendly interface for summarizing text using extractive summarization techniques.
+This is a web application for extractive text summarization. It provides a user-friendly interface for summarizing text using extractive summarization techniques.
 
 ## Features
 
